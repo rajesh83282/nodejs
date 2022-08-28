@@ -10,7 +10,6 @@ const data = [
     { id: 4, title: 'Walk toward home', order: 4, completed: false, createdOn: new Date() },
     { id: 5, title: 'Have some dinner', order: 5, completed: false, createdOn: new Date() },
     { id: 6, title: 'Have a cup of Coffe', order: 6, completed: false, createdOn: new Date() },
-    { id: 7, title: 'Have a plate of Meal', order: 7, completed: false, createdOn: new Date() },
     { id: 8, title: 'Have a plate of rasmala', order: 8, completed: false, createdOn: new Date() },
 ];
 
